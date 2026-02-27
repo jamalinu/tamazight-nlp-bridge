@@ -1,4 +1,5 @@
 # The Multilingual Low-Resource Bridge: Tamazight NLP
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jamalinu/tamazight-nlp-bridge/blob/main/Mi_Proyecto_Tamazight.ipynb)
 
 ## 🌍 Overview
 As a native Tamazight speaker and linguist, I developed this project to bridge the gap in Natural Language Processing (NLP) for North African languages. This dataset addresses common AI errors like Arabic-to-Tamazight literal translation calcos.
