@@ -8,6 +8,7 @@ As a native Tamazight speaker and linguist, I developed this project to bridge t
 * **Native Expertise:** Includes authentic Tarifit and Taqbaylit structures (e.g., complex conditionals like *mri dyusa iri zrighth*).
 * **Multilingual:** Parallel data in 6 languages: Tamazight, Arabic, Catalan, Spanish, French, and English.
 * **Pre-processing:** Cleaned and tokenized data ready for Machine Learning.
+* "Automated Tifinagh Transliteration tool included"
 
 ## 📊 Dataset Sample
 | Tamazight | Dialect | English | Notes |
