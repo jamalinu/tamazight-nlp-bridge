@@ -20,6 +20,7 @@ As a native Tamazight speaker and linguist, I developed this project to bridge t
 * Python (Pandas, Matplotlib)
 * Google Colab
 * spaCy
+## 🔬 Research & Linguistic Observations
 
   S thmazight
   Nech ssawaregh thmazight. Ggigh projet-a mahend ad qnegh lfarq nigh lfajwa jar ilsawen di muâlaja ilsawen tabi3iyyin (NLP) jar ilsawn n chamal ifriqya. Wa d kakha n lbayanat d ifayuthen chnaw taâraft-ghar-thmazight.
