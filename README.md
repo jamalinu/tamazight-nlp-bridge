@@ -22,5 +22,13 @@ As a native Tamazight speaker and linguist, I developed this project to bridge t
 * spaCy
 ## 🔬 Research & Linguistic Observations
 
+## 🔬 Observaciones sobre el Tamazight de la Diáspora
+
+Durante el desarrollo de este proyecto, se ha identificado un fenómeno crítico para el procesamiento de lenguaje natural (NLP): el **Tamazight de Herencia**.
+
+* **Contexto:** Los hablantes nativos o descendientes nacidos en Europa (España, Francia, Bélgica) presentan un alto grado de *code-switching*.
+* **Hallazgo:** Mientras que la estructura gramatical y la base emocional permanecen en Tamazight, el léxico académico y técnico es sustituido por el idioma del país de residencia.
+* **Solución Técnica:** Mi modelo incluye un "Clasificador de Influencia Geográfica" que ayuda a los sistemas de IA a entender el contexto del usuario (Influencia Ibérica vs. Francófona) para evitar errores de traducción y mejorar la experiencia de usuario (UX) en aplicaciones globales.
+
   S thmazight
   Nech ssawaregh thmazight. Ggigh projet-a mahend ad qnegh lfarq nigh lfajwa jar ilsawen di muâlaja ilsawen tabi3iyyin (NLP) jar ilsawn n chamal ifriqya. Wa d kakha n lbayanat d ifayuthen chnaw taâraft-ghar-thmazight.
